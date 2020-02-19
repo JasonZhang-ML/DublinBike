@@ -16,8 +16,8 @@
 1. apply a EC2 server
 2. apply a RDS Mysql server
 3. create a github repo 
-4. regist jcdecaux API
-5. regist OpenWeather API
+4. register jcdecaux API
+5. register OpenWeather API
 
 
 
