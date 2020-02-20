@@ -6,6 +6,7 @@ API_KEY_JCD = "bf6a214054531bd85d0445e047e084bb3d1c0975"
 CONTRACT_JCD = "dublin"
 jcd_response = requests.get(
     "https://api.jcdecaux.com/vls/v1/stations?contract=" + CONTRACT_JCD + "&apiKey=" + API_KEY_JCD)
+
 print(jcd_response.json())
 
 # Create a list to contain the result
