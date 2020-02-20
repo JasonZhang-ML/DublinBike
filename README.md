@@ -17,6 +17,6 @@ a web app to show Dublin bike info
 
 
 ## AUTHOR
-Junyang Xu
-Zhongyan Zhang
+Junyang Xu,
+Zhongyan Zhang,
 Jiansheng Zhang
